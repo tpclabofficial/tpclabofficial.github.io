@@ -19,7 +19,7 @@ main:
   - name: Tool
     url: '#featured'
     weight: 50
-  - name: Team
+  - name: Team developer
     url: '#contact'
     weight: 60
 
