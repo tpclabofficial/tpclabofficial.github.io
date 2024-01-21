@@ -13,13 +13,13 @@ main:
   - name: Research
     url: '#projects'
     weight: 30
-  - name: Contact
+  - name: Team developer
     url: '#talks'
     weight: 40
   - name: Tool
     url: '#featured'
     weight: 50
-  - name: Team developer
+  - name: Contact
     url: '#contact'
     weight: 60
 
