@@ -1,13 +1,13 @@
 ---
 # Display name
-title: 吳健雄
+title: Timepiece 
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: 
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: 
+last_name: 
 
 # Status emoji
 status:
@@ -17,7 +17,7 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: a smart system that solves employment difficulties by sharing time
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -120,7 +120,10 @@ social:
 highlight_name: true
 ---
 
-We are a group of students and teachers from Wuxi Vocational College of Science and Technology. Our main research focuses on Intelligent Systems, Natural Language Processing, Q&A, healthcare, and bioinformatics. This is our lab official website, where you can find all the information about our laboratory.
-我们是一群来自无锡科技职业学院的学生和老师。我们的主要研究内容是智能系统、自然语言处理、Q&A系统和生物信息学。这是我们的官方网站，在这里您可以找到关于我们实验室的所有信息。
+We are a group of students and teachers from Wuxi Vocational College of Science and Technology. Our main research focuses on Intelligent Systems,
+Natural Language Processing, Q&A, healthcare, and bioinformatics. This is our lab official website, where you can find all the information about our laboratory.
+我们是一群来自无锡科技职业学院的学生和老师。我们的主要研究内容是智能系统、自然语言处理、Q&A系统和生物信息学。这是我们的官方网站，在这里您可以找到关于我们实验室的
+所有信息。
+
 Our team slogan is Strengthen Human, Lighten Brain.
 {style="text-align: justify;"}
